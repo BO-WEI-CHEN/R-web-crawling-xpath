@@ -1,2 +1,2 @@
-# R-Web-Crawling-an relatively easy way
+# R-Web-Crawling-a relatively easy way
 Using xpath to access web data
