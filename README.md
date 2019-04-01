@@ -1,2 +1,1 @@
-# R-Web-Crawling-a relatively easy way
-Using xpath to access web data
+# R_Web_Crawling_a_Relatively_Easy_Way_to_Get_News_Data
